@@ -1,4 +1,4 @@
 
-# Series CI customer support
+# seriesci customer support
 
 Have a question? Open an issue.
